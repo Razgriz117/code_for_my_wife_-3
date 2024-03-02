@@ -10,9 +10,9 @@ stupid fucking broken scheduling system that makes her so mad! >:O Stupid Newton
 GIVE MY WIFE A NODE!!! D:<
 
 ## Format for execution is as follows:
-- sneaky_job_scheduler_heheh.py "<command>" "<time>"
+- sneaky_job_scheduler_heheh.py "\<command>" "\<time>"
 
 ## Valid formats for time:
-- "<hour>:<minute> <AM/PM>"
-- "<hour>:<minute> <am/pm>"
-- "<hour_military>:<minute>"
+- "\<hour>:\<minute> <AM/PM>"
+- "\<hour>:\<minute> <am/pm>"
+- "\<hour_military>:<minute>"
