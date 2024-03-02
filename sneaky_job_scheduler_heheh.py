@@ -67,7 +67,7 @@ def run_command_at_specific_time(hour, minute, command):
           print(f"\rCurrent time: {current_time.tm_hour:02d}:{current_time.tm_min:02d}", end='', flush=True)
 
           # Check if it's time to run the command
-          if current_time.tm_hour >= hour and current_time.tm_min >= minute:
+          if current_time.tm_hour == hour and current_time.tm_min == minute:
                print("\n\n===================================================")
                print("It's finally time! >:3!!! Executing the command...")
                print("===================================================\n")
