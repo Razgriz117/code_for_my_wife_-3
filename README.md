@@ -15,4 +15,4 @@ GIVE MY WIFE A NODE!!! D:<
 ## Valid formats for time:
 - "\<hour>:\<minute> <AM/PM>"
 - "\<hour>:\<minute> <am/pm>"
-- "\<hour_military>:<minute>"
+- "\<hour_military>:\<minute>"
